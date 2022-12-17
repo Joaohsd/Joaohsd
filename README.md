@@ -7,7 +7,7 @@
 
 > Tenho 21 anos, sou estudante de <strong>Engenharia de Computação</strong> e estou, atualmente, no <strong>sétimo período</strong>.
 
-🔭 Atualmente, estou estudando e aplicando meus conhecimentos acerca de Inteligência Artificial para a camada física de redes 5G e 6G. 
+🔭 Atualmente, estou estudando e aplicando meus conhecimentos acerca de Inteligência Artificial para a camada de enlace e física em redes 5G e 6G. 
 
 <div id="contatos">
     💬 Informações para contato:
