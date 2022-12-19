@@ -1,8 +1,10 @@
 <h2 style="display:flex;align-items:center">
-    <img width="40" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/512/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png"/>
-    <b>
-        Olá, meu nome é João Henrique!
-    </b>
+    <span>
+        <img width="40" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/512/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png"/>
+        <b>
+            Olá, meu nome é João Henrique!
+        </b>
+    </span>
 </h2>
 
 > Tenho 21 anos, sou estudante de <strong>Engenharia de Computação</strong> e estou, atualmente, no <strong>sétimo período</strong>.
@@ -24,7 +26,7 @@
 ----
 
 <h2> 🚀 Minhas Skills </h2>
-<div id="skills" align=center>
+<div id="skills" align="center">
     <code>
         <img height="32" src="https://img.icons8.com/color/512/c-programming.png" alt="c"/>
     </code>
