@@ -26,7 +26,7 @@
 ----
 
 <h2> 🚀 Minhas Skills </h2>
-<div id="skills" align="center">
+<div id="skills" style="display:flex;align-items:center">
     <code>
         <img height="32" src="https://img.icons8.com/color/512/c-programming.png" alt="c"/>
     </code>
