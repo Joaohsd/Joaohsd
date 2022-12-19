@@ -1,11 +1,11 @@
-<span style="display:flex;align-items:center">
-    <img width="40" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/512/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png"/>
-    <h2>
+<h2 style="display:flex;align-items:center">
+    <span>
+        <img width="40" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/512/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png"/>
         <b>
             Olá, meu nome é João Henrique!
         </b>
-    </h2>
-</span>
+    </span>
+</h2>
 
 > Tenho 21 anos, sou estudante de <strong>Engenharia de Computação</strong> e estou, atualmente, no <strong>sétimo período</strong>.
 
