@@ -45,6 +45,6 @@
 
 <h2> ⭐ Informações sobre minha conta GitHub </h2>
 <div id="github-stats" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Joaohsd&show_icons=true&theme=tokyonight"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaohsd&layout=compact&langs_count=10&theme=tokyonight"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joaohsd&show_icons=true&theme=tokyonight"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joaohsd&layout=compact&theme=tokyonight"/>
 </div>
