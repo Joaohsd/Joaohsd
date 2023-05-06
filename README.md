@@ -1,10 +1,7 @@
 <h2 style="display:flex;align-items:center">
-    <span>
-        <img width="40" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/512/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png"/>
-        <b>
-            Olá, meu nome é João Henrique!
-        </b>
-    </span>
+    <b>
+        Olá, meu nome é João Henrique!
+    </b>
 </h2>
 
 > Tenho 21 anos, sou estudante de <strong>Engenharia de Computação</strong> e estou, atualmente, no <strong>sétimo período</strong>.
@@ -45,6 +42,5 @@
 
 <h2> ⭐ Informações sobre minha conta GitHub </h2>
 <div id="github-stats" align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joaohsd&show_icons=true&theme=tokyonight"/>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joaohsd&layout=compact&theme=tokyonight"/>
 </div>
