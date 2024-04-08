@@ -6,7 +6,7 @@
 
 > Tenho 23 anos, sou estudante de <strong>Engenharia de Computação</strong> e estou, atualmente, no <strong>nono período</strong>.
 
-🔭 Atualmente, estou estudando e aplicando meus conhecimentos acerca sistemas embarcados para rede óptica. 
+🔭 Atualmente, estou estudando e aplicando meus conhecimentos acerca de sistemas embarcados para rede óptica. 
 
 <div id="contatos">
     💬 Informações para contato:
