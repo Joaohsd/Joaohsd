@@ -6,7 +6,7 @@
 
 > Tenho 24 anos, sou <strong>Engenheiro de Computação</strong> formado pelo <strong>INATEL</strong>.
 
-🔭 Atualmente, estou estudando e aplicando meus conhecimentos acerca de sistemas embarcados para rede óptica. 
+🔭 Atualmente, estou estudando e aplicando meus conhecimentos acerca de sistemas embarcados e arquitetura de computadores. 
 
 <div id="contatos">
     💬 Informações para contato:
